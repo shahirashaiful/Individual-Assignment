@@ -1,0 +1,430 @@
+header
+{
+    background-color: #bc8f8f;
+    float: left;
+    width: 100%;
+    height: 15%;
+}
+
+h1
+{
+background-color: #bc8f8f;
+float: left;
+width: 100%;
+height: 10%;
+}
+
+h3
+    {
+font-family: "copperplate", fantasy;
+    }
+
+h4
+    {
+        font-family: "copperplate", fantasy;
+        font-size: 120%;
+        color: black;
+        align-content: center;
+        text-align: center;
+    }
+
+h6
+{
+    background-color: rgb(201, 155, 155);
+    width: 100%;
+    height: 800%;
+}
+
+h7
+{
+    font-family: "monaco", monospace;
+    font-size: 120%;
+    color: black;
+    align-content: center;
+    text-align: center;
+}
+
+h8
+{
+    font-size: 120%;
+    color: black;
+    align-content: center;
+    text-align: center;
+}
+
+h9
+{
+    font-size: 150%;
+    color: black;
+    align-content: center;
+    text-align: center;  
+}
+h10
+{
+  font-size: 140%;
+  color: black;
+  align-content: center;
+  text-align: center;  
+}
+body
+    {
+        background-color: #d3e8ec;
+    }
+
+
+table  
+   {
+       border-collapse: collapse
+       border: 1px solid black;  }
+
+div.bar
+{
+    float: left;
+    width: 100%;
+    height: 2.5em;
+}
+
+
+
+div.details
+{
+  float: left;  
+  width: 100%;
+  height: 15%;
+  background-color: firebrick;
+}
+div.info
+{
+    float: right;
+    width:100% ;
+    height: 50px;
+    background-color: rgb(179, 94, 94);
+}
+
+div.footer
+{
+    float: inline-end;
+    width: auto;
+    background-color: transparent;
+}
+
+div.info2
+{
+    float: right;
+    width: 75%;
+    height: 50px;
+    background-color: #413939;
+}
+
+div.info3
+{
+    float: right;
+    width:75% ;
+    height: 50px;
+    background-color: #bc8f8f;
+}
+
+div.info4
+{
+    float: right;
+    width: 75%;
+    height: 50px;
+    background-color: #413939;
+}
+div.info5
+{
+    float: right;
+    width: 75%;
+    height: 50px;
+    background-color: #bc8f8f;
+}
+div.info6
+{
+    float: right;
+    width: 75%;
+    height: 50px;
+    background-color: #413939;
+}
+
+div.line
+{
+    float: left;
+    width: 100%;
+    height: 1em;
+    background-color: rgb(231, 98, 84);
+}
+    div.slider
+    {
+        float: left;
+        width: 100%;
+        height: 650px; ;
+        background-color: brown;
+    }
+
+    div.box1
+    {
+        float: left;
+        width: 25%;
+        height: 300px;
+        background-color: #ffe4e1;
+    }
+
+    div.box2
+    {
+        float: left;
+        width: 25%;
+        height: 300px;
+        background-color: #fff0f5;
+    }
+
+    div.box3 
+    {
+        float: left;
+        width: 25%;
+        height: 300px;
+        background-color: #ffe4e1;
+    }
+
+    div.box4
+    {
+        float: left;
+        width: 25%;
+        height: 300px;
+        background-color: #fff0f5;
+    }
+
+   
+    div.high1 
+    {
+        float: left;
+        width: 25%;
+        height: 750px;
+        background-color:rgba(128, 128, 128, 0.555);
+    }
+
+    div.high2
+    {
+        float: left;
+        width: 75%;
+        height: 750px;
+        background-color: #cd5c5c9d;
+        font-style: normal;
+        font-size: small;
+    }
+
+    div.high3
+    {
+        float: left;
+        width: 100%;
+        height: 300px;
+        background-color: #e7cbc9;
+    }
+
+    div.high4
+    {
+        float: left;
+        width: 100%;
+        height: 180px;
+        background-color: #cd5c5c9d;
+        font-style: normal;
+        font-size: small;
+    }
+
+    div.footer
+    {
+        color: rgb(255, 127, 127);
+        text-align: center;
+        font: 12;
+    }
+
+    ol
+    {
+        list-style-type: lower-roman;
+    }
+    ul
+    {
+        font-style: italic;
+        list-style-type: circle;
+        color: #413939;
+    }
+
+    a
+    {
+        text-decoration: none;
+    }
+    .fa-facebook
+    {
+     align-items: center;
+        color: rgb(0, 0, 0);
+    }
+.fa-facebook:hover
+{
+  color: rgb(207, 84, 231);
+}
+.fa-instagram:hover
+{
+  color: rgb(207, 84, 231);
+}
+
+.fa-tiktok:hover
+{
+  color: rgb(207, 84, 231);
+}
+
+h20
+{
+    font-family: "copperplate", fantasy;   
+}
+h21
+ {
+        width: 100%;
+        height: auto;
+      }
+      
+      .heading {
+        font-size: 25px;
+        margin-right: 25px;
+      }
+      
+      .fa {
+        font-size: 25px;
+      }
+      
+      .checked {
+        color: orange;
+      }
+      
+      .side {
+        float: left;
+        width: 15%;
+        margin-top: 10px;
+      }
+      
+      .middle {
+        float: left;
+        width: 70%;
+        margin-top: 10px;
+      }
+      
+      .right {
+        text-align: right;
+      }
+      
+      .row:after 
+      {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+      .bar-container {
+        width: 100%;
+        background-color: #f1f1f1;
+        text-align: center;
+        color: white;
+      }
+      
+      .bar-5 {width: 95%; height: 18px; background-color: #04AA6D;}
+      .bar-4 {width: 90%; height: 18px; background-color: #2196F3;}
+      .bar-3 {width: 80%; height: 18px; background-color: #00bcd4;}
+      .bar-2 {width: 70%; height: 18px; background-color: #ff9800;}
+      .bar-1 {width: 85%; height: 18px; background-color: #f44336;}
+      
+    * {
+        box-sizing: border-box;
+      }
+      
+      body 
+      
+      .heading {
+        font-size: 25px;
+        margin-right: 25px;
+      }
+      
+      .fa {
+        font-size: 25px;
+      }
+      
+      .checked {
+        color: orange;
+      }
+    
+      .side {
+        float: left;
+        width: 15%;
+        margin-top: 10px;
+      }
+      
+      .middle {
+        float: left;
+        width: 70%;
+        margin-top: 10px;
+      }
+      
+      .right {
+        text-align: right;
+      }
+      
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+      .bar-container {
+        width: 100%;
+        background-color: #f1f1f1;
+        text-align: center;
+        color: white;
+      }
+      .bar-6 {width: 100%; height: 18px; background-color: #04AA6D;}
+      .bar-7 {width: 80%; height: 18px; background-color: #2196F3;}
+      .bar-8 {width: 70%; height: 18px; background-color: #e49d4c;}
+     
+      
+      div.personalinfo
+      {
+          float:right;
+          width:auto ;
+          height:auto;
+          background-color: rgb(179, 94, 94);
+      }
+      
+      .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+      }
+      
+      .title {
+        color: rgb(109, 47, 57);
+        font-size: 18px;
+      }
+      
+      button {
+        border: none;
+        outline: 0;
+        display: inline-block;
+        padding: 8px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+      }
+      
+      a {
+        text-decoration: none;
+        font-size: 22px;
+        color: black;
+      }
+      
+      button:hover, a:hover {
+        opacity: 0.7;
+      }
+
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;}
